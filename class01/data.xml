@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bookstore>
+    <book id="1">
+         <name>Ms office</name>
+         <price>$3</price>
+         <version>2021</version>
+    </book>
+    <book id="2">
+         <name>Javacript</name>
+         <price>$30</price>
+         <version>ES6</version>
+    </book>
+    <book id="3">
+         <name>XML</name>
+         <price>$1</price>
+         <version>1.0</version>
+    </book>
+    <book id="4">
+         <name>HTML</name>
+         <price>$5</price>
+         <version>5</version>
+    </book>
+    <book id="5">
+         <name>Ms office</name>
+         <price>$3</price>
+         <version>2021</version>
+    </book>
+</bookstore>
