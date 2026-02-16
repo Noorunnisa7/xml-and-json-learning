@@ -1,0 +1,17 @@
+<?xml version="1.0" ?>
+<data xmlns:n="https://www.w3.org/TR/html4/" xmlns:t="https://www.w3schools.com">
+<n:table>
+   <n:tr>
+       <n:td>Zara</n:td>
+       <n:td>Sana</n:td>
+       <n:td>Ayesha</n:td>
+   </n:tr>
+</n:table>
+<t:table>
+   <t:name>African coffee table</t:name>
+   <t:length>11</t:length>
+   <t:width>80</t:width>
+</t:table>
+</data>
+
+
