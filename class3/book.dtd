@@ -1,0 +1,8 @@
+<!ELEMENT bookstore (book+)>
+<!ELEMENT book (name,price,version)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
+<!ELEMENT version (#PCDATA)>
+<!ATTLIST book id CDATA #REQUIRED>
+<!ATTLIST book category CDATA #IMPLIED>
+<!ATTLIST name title CDATA #FIXED "HELLO">
